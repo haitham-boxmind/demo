@@ -41,7 +41,7 @@ class Counter:
 if __name__ == "__main__":
     print("Area of circle with radius 5:", area_of_circle(5))
     print("Random numbers:", generate_random_numbers(5))
-    print("Fibonacci up to 20:", fibonacci(20))
+    print("Fibonacci up to 20:", fibonacci(30))
     # Instantiate and use Counter
     counter = Counter()
     counter.increment()
